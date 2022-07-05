@@ -1,0 +1,28 @@
+// Exercise prime numbers
+
+Description:
+    //A prime number is all the numbers whose factors are only 1 and itself
+    //Examples: 2,3,5,7,11,13....
+
+    //Show all the prime numbers until the given limit
+
+    function showPrimes(limit){
+        //Implementation
+        ...
+    }
+
+Examples results
+    1. showPrimes2(10); 
+    
+        Result:  
+            2
+            3
+            5
+            7
+
+    2. showPrimes2(5); 
+    
+        Result:  
+            2
+            3
+            5

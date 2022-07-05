@@ -1,0 +1,27 @@
+FizzBuzz exercise
+//Divisible by 3 => Fizz
+//Divisible by 5 => Buzz
+//Divisible by both 3 and 5 => FizzBuzz
+//Not Divisible by 3 or 5 => input
+//Not a number => 'Not a number'
+
+Description:
+    1. Create a function receivign a parameter number,
+    2. check if the parameter is number type, if not show into the console the message "Not a number"
+    3. Parameter number is divisible by 3, we need to show into the console the message "Fizz"
+    4. Parameter number is divisible by 5, we need to show into the console the message "Buzz"
+    5. Parameter number is divisible by 3 and 5, we need to show into the console the message "FizzBuzz"
+
+    //Calling function
+    showFizzBuzz(15);
+
+    showFizzBuzz(number){
+        //Implementation
+        ....
+    }
+
+Example Result:
+showFizzBuzz(15); --> "FizzBuzz"
+showFizzBuzz(9); --> "Fizz"
+showFizzBuzz(10); --> "Buzz"
+showFizzBuzz("hello"); --> "Not a number"

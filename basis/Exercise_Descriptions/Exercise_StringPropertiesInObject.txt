@@ -1,0 +1,27 @@
+String Properties exercise
+
+Description: 
+    Show only the string properties into given object
+
+    Example Object:
+    
+        const movie = {
+            title: 'Jurassic World 2',
+            releaseYear: 2018,
+            rating: 4.5,
+            director: 'Steven Spilverg'
+        }
+
+    function showStringProperties(movie){
+        //Implementation
+        ...
+    }
+
+Example result:
+
+    showStringProperties(movie);
+
+    Results:
+        Jurassic World 2
+        Steven Spilverg
+

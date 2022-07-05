@@ -1,0 +1,31 @@
+Demerit point exercise
+
+Description:
+
+    Show the number of points due to exceed speed limit (70 km) for a car.
+    every 5km after 70km is 1 point.
+    you can use Math.floor function for this exercise.
+    
+    1. Speed limit = 70
+    2. every 5 km after 70 is 1 point
+    3. use Math.floor() function
+    4. equal or more than 12 points -> license suspended
+
+    function checkSpeed(speed){
+        //Implementation
+        ...
+    }
+
+Examples results:
+
+    console.log(checkSpeed(70)); --> Result: 0 points
+    console.log(checkSpeed(74)); --> Result: 0 points
+    console.log(checkSpeed(75)); --> Result: 1 points
+    console.log(checkSpeed(77)); --> Result: 1 points
+    console.log(checkSpeed(80)); --> Result: 2 points
+    console.log(checkSpeed(100)); --> Result: 6 points
+    console.log(checkSpeed(120)); --> Result: 10 points
+    console.log(checkSpeed(130)); --> Result: "license suspended"
+    console.log(checkSpeed(140)); --> Result: "license suspended"
+
+    

@@ -1,0 +1,22 @@
+Exercise showing stars
+
+Description
+
+    Show stars (*) begining from 1 until the limit of rows 
+
+    function showStars(rows){
+        //Implementation
+        ...
+    }
+
+Example result:
+
+    showStars(5);
+
+    In console should show something like this:
+    
+    *
+    **
+    ***
+    ****
+    *****

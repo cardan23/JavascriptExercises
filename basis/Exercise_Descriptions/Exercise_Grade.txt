@@ -1,0 +1,23 @@
+//Grade Exercise
+
+//Description: 
+    show the grade character (A,B,C,D,F) of the array depending the average
+
+    //1-59: F
+    //60-69: D
+    //70-79: C
+    //80-89: B
+    //90-100: A
+
+    //get the average of the array and then show the corresponding character
+    const marks = [70, 70, 70]; --> Average = 70
+
+    function calculateGrade(marks){
+        //Implementation
+        ....
+    }
+    
+Example result:
+    console.log(calculateGrade(marks)); ---> Result: C
+
+
