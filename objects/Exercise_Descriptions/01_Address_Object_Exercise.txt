@@ -1,0 +1,17 @@
+Address Object Exercise
+
+Description:
+    create an Addres object with next fields:
+        street
+        city
+        zipcode
+    
+    create a function that gets an Address object as parameter
+    and show all the properties with their values
+    Example: 
+        showAddress(address);
+
+    Example results in console
+        street: pineapple avenue index.js:19:17
+        city: Los Angeles index.js:19:17
+        zipCode: 90002 

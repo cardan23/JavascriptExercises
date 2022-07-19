@@ -1,0 +1,23 @@
+Exercise 04
+
+Blog post Object exercise
+
+
+Description:
+    1. Create a Blog post object with Object literal syntax way, like this:
+
+        let x = {
+            ...
+        };
+
+    2. add to the object next properties:
+        title : string
+        body : string
+        author : string
+        views : Number
+        comments : array of objects with next porperties
+            author : string
+            body : string
+        isLive: Boolean
+
+    

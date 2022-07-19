@@ -1,0 +1,22 @@
+Exercise 2
+
+Factory and Constructor functions
+
+Description:
+
+    Create an Address object with next properties
+        street
+        city
+        zipcode
+    
+    But instead use this notation:
+        
+        const address = {
+            street: "pineapple avenue",
+            city: "Los Angeles",
+            zipCode: "90002"
+        }
+    
+    1. Please create this same addres object with Factory function pattern
+    2. Please create this same addres object with Constructor function pattern
+    

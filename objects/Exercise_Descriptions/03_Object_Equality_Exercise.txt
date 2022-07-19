@@ -1,0 +1,22 @@
+Exercise 3
+
+Object Equality
+
+Description:
+    1. Use Constructor Function pattern to create an Address object with next properties:
+        street
+        city
+        zipcode        
+
+    2.  Create a Function called "areEqual", this function will have 2 paramerers
+        address1 and address2. If every field in both addresses are equal will return true,
+        if not will return false.
+
+            function areEqual(address1, address2);
+        
+    3.  Create a Function called "areSame", this function will have 2 paramerers
+        address1 and address2. If both addresses are pointing same object (both have the same reference in memory)
+        return true, if not return false.
+
+            function areSame(address1, address2);
+    

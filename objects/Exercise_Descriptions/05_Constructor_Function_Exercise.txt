@@ -1,0 +1,9 @@
+Exercise 05
+
+Constructor functions exercise
+
+    Description:
+        1.  Create a blog post object using Constructor Function pattern
+        2.  Add default values, I mean when we post something we dont have comments or views yet
+            so please add default values to initialize properties you consider necessaries 
+    
